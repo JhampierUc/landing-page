@@ -1,0 +1,36 @@
+body {
+    background-color: aquamarine;
+}
+
+header {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.titulo {
+    font-family: 'Courier New';
+}
+
+.cuerpo {
+    float: left;
+    margin-left: 10em;
+    margin-right: 20em;
+}
+
+.cuadro {
+    font-size: large;
+    width: 150%;
+    border-color: black;
+}
+
+.cuadro2 {
+    font-size: large;
+    width: 150%;
+    height: 200%;
+    background-color: blueviolet;
+}
+
+.img {
+    height: 30em;
+    width: 25em;
+}
